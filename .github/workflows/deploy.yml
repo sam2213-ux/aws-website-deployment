@@ -27,4 +27,4 @@ jobs:
           --exclude ".github/*"
 
       - name: Success Message
-        run: echo "<h1>Hello! Deployed via GitHub Actions! 🚀</h1>"
+        run: echo "🚀 Website Successfully Deployed!"
